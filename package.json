@@ -1,0 +1,30 @@
+{
+  "name": "style-config-loader",
+  "version": "0.0.1",
+  "description": "pre-config for modern CSS language(less/sass/stylus)",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fayfang/style-config-loader.git"
+  },
+  "keywords": [
+    "webpack",
+    "loader",
+    "style",
+    "config"
+  ],
+  "author": "fay",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fayfang/style-config-loader/issues"
+  },
+  "homepage": "https://github.com/fayfang/style-config-loader",
+  "peerDependencies": {
+    "webpack": "^3 || ^4"
+  },
+  "dependencies": {
+    "loader-utils": "^1.2.3",
+    "schema-utils": "^1.0.0"
+  }
+}
