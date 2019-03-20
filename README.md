@@ -1,5 +1,6 @@
 # style-config-loader
-小工具，用于在stylus、less、sass等css预处理语言前插入公共的代码，以减少代码中不断import某个文件
+小工具，用于在stylus、less、sass等css预处理
+语言前插入公共的代码，以减少代码中不断import某个文件
 
 ## install
 ``` node
